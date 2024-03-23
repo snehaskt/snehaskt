@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @snehaskt
 - 👀 I’m interested in embedded system development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ktsnehu2001@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning on embedded software development
+- 📫 you can reach me through www.linkedin.com/in/snehas-k-t-57401b24b
+- currently im looking for jobs in embedded software.
 
 <!---
 snehaskt/snehaskt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
